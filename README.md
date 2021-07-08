@@ -2,7 +2,7 @@
 A robust method of learning stochastic PDEs from dynamical systems.
 
 
-![Framework](Framework.PNG)
+![Framework](Framework-1.PNG)
 
 
 Copyright Notice:
